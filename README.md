@@ -2,9 +2,7 @@
 
 Place points, fit a line, and see how one outlier can tug an entire model.
 
-## Run
-
-Open `index.html` in a modern browser. HTML, CSS, and JavaScript are all in that file. No server, packages, internet connection, API key, build step, or downloaded model is required.
+https://raeeskasim1.github.io/regression-line-studio/
 
 ## Try it
 
